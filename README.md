@@ -95,3 +95,4 @@ La simulación concurrente anterior se ejecuta con `main.SimulacionMain`, o medi
 - **Entrega:** el ZIP incluye código, configuración del proyecto, conector, script SQL y README. Los registros y las contraseñas de la instalación local no se incluyen. El repositorio nuevo en GitHub y su enlace deben completarse para la entrega.
 
 # Link del repositorio
+https://github.com/GhostieSpoomy17/Sistema_SpeedFast.git
